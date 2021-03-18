@@ -1,0 +1,14 @@
+MODEL:
+  ADAPTATION: dent
+  ARCH: Ding2020MMA
+  EPISODIC: True
+TEST:
+  BATCH_SIZE: 128
+OPTIM:
+  METHOD: AdaMod
+  STEPS: 6
+  BETA: 0.99
+  BETA3: 0.6
+  LR: 6e-3
+  WD: 0.
+  LOSS: shot
