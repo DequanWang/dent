@@ -51,7 +51,7 @@ python cifar10a.py --cfg cfgs/dent.yaml MODEL.ARCH Ding2020MMA
 
 ## Correspondence
 
-Please contact Dequan Wang, An Ju, and Evan Shelhamer at dqwang AT eecs.berkeley.edu, an_ju AT berkeley.edu, and shelhamer AT google.com.
+Please contact Dequan Wang, An Ju, and Evan Shelhamer at dqwang AT eecs.berkeley.edu, an_ju AT berkeley.edu, and shelhamer AT deepmind.com.
 
 ## Citation
 
