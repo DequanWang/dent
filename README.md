@@ -1,6 +1,6 @@
 # Dent: Dynamic Defenses against Adversarial Attacks
 
-This is the official project repository for [Fighting Gradients with Gradients: Dynamic Defenses against Adversarial Attacks](https://aisecure-workshop.github.io/aml-iclr2021/papers/44.pdf) by
+This is the official project repository for [Fighting Gradients with Gradients: Dynamic Defenses against Adversarial Attacks](https://arxiv.org/abs/2105.08714) by
 Dequan Wang, An Ju, Evan Shelhamer, David Wagner, and Trevor Darrell.
 
 ## Abstract
@@ -58,10 +58,12 @@ Please contact Dequan Wang, An Ju, and Evan Shelhamer at dqwang AT eecs.berkeley
 If the dent method or dynamic defense setting are helpful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{wang2021dent,
+@article{wang2021fighting,
   title={Fighting Gradients with Gradients: Dynamic Defenses against Adversarial Attacks},
   author={Wang, Dequan and Ju, An and Shelhamer, Evan and Wagner, David and Darrell, Trevor},
-  booktitle={ICLR Workshop on Security and Safety in Machine Learning Systems},
+  journal={arXiv preprint arXiv:2105.08714},
   year={2021}
 }
 ```
+
+Note: a [workshop edition of this project](https://aisecure-workshop.github.io/aml-iclr2021/papers/44.pdf) was presented at the ICLR'21 Workshop on Security and Safety in Machine Learning Systems.
